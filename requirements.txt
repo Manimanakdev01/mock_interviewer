@@ -1,8 +1,5 @@
 streamlit
 PyPDF2
-json
-re
-datetime
-google-genai
+google-generativeai
 plotly
-collections
+pandas
